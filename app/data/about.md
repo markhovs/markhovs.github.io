@@ -1,86 +1,102 @@
-
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+I am a man of thousand interests, some may call me "Jack of all trades, master of none", which would be a fair description of my persona with the addition of "though oftentimes better than master of one" to the end of it. 
 <br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+My main professional interests are mainly revolving around technological advancement and innovation. I am a computer scientist, currently working remotely as a software engineer, focusing on development of smart assisstants. 
+<br>
+I am a co-founder and the CEO of [TutWiser](https://tutwiser.com), where I work on developing an educational infrastructure and building tools for tutoring services.
+<br>
+I am never stopping to learn new things and I perceive my life as a big game, where self-development is equivalent to level advancement. I am open to new opportunities, interesting projects or anything that sounds exciting. I am available to consult on interesting projects or even undertake/supervise some short-term projects.
 <br><br>
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+While in University, I have gained numerous skills in different fields and after graduation I am now applying my skills as computer scientist, enterpreneur, public speaker and many others for my career and future endeavours. I am aiming to continue my education in Germany and eventually get a PhD degree, succeed as an enterpreneur and a software engineer.
+
 <br><br>
 #### Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- I was bilingual when I was only 2 years old. At that time I was native in both Russian and Armenian languages.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- My first interaction with a computer system was when my parents bought me a SEGA system on my 4th birthday. To this day I remember playing "Sonic: The Hedgehog" and learning every secret of the game. I bet there still are hidden passages that I did not manage to discover back then.
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- I remember going to different places with my parents and every time I noticed a computer in a room I couldn't get my eyes off it. I loved sitting in front of computers and just discovering all of the little things that operating systems of those times could offer.
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+- At 5, I was able to do all of the simple numerical operations, like addition, subtraction, divison, multiplication and even squaring.
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- At 6, I started going to school, which I absolutely hated. At the same time I started attending a music school, where I was getting formal musical education and learning to play piano.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- At 7, I got my very own computer which was one of the happiest moments of my life up until that time. 
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- I also learned to play chess when I was 7 and absolutely loved the game. I always wish to play more chess than I actually manage to.
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+- The first computer game that I played was probably Pinball, which I played on the computer of my father's workplace. However, the first game that I installed and played on my very own computer was the famous "Grand Theft Auto: San Andreas".
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
+- At 8, I quit Karate dojo, which I hated, and started attending swimming classes. Learning to swim was one of the best things and till this day I attend a swimming pool regularly.
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
+- By the age of 9, I was fluent in English and it became my third language.
 
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
+- At 10, I was experimenting with my computer and I learned how to fully disassemble and assemble back it back. I could also format the hard drives and install an OS.
 
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
+- I was 11 when I participted in Kangaroo mathematics and logical thinking competition and got an impressive school-wide high-score.
 
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
+- When I was 12, I started playing basketball and fell in love with it. I was originally inspired by the movie "Spcae Jam" and I asked my dad to register me to a basketball club, where a wonderful sports journey had begun.
 
-- At 19, I took my first graduate course and published my first academic paper.
+- At 13, I managed to beat my dad at chess for the first time and got really excited about board games. I had a small collection of my favorite board games among which one of my favorites was the famous Monopoly.
 
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
+- At 14, I started learning things about programming and a whole new world of previously invisible layers of technology has oppended up for me. I built my first HTML/CSS website and I was proud to be able to create my first working application.
+
+- I solved my first Rubik's Cube at 14, which led to the development of another huge hobby of mine.
+
+- When I was 15, I started paying more attention to my classes. I started to excel at Math, Physics, Biology and a number of other subjects. I participated in Olympiads and even received some qualifications in Math, Biology and Chess.
+
+- At 16, I worked really hard took TOEFL IBT and SAT Math exams, which were the first steps towards my future university admission.
+
+- 14 - 17, I played a lot of video games. My favorites included Age of Empires 3, Call of Duty: Modern Warfare, Civilization V, Dark Souls, Skyrim, Fallout.
+
+- At 18, I have been writing programs in C++, Java and JavaScript. I was fully invested in programming and built many small applications. Later I got into Android development.
+
+- At 19, I was heavily involved with NGOs, I was an active participant of EYP Armenia and AEGEE-Yerevan conferences. I took the role of a forum organizer for the first time and later that year I travelled to Romania to participae in an international forum.
+
+- At 20, I wrote my first academic paper in the field of Machine Learning and Natural Language Processing based on my capstone project.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
+
 <br><br>
 #### I like
-- Skiing
-- Sailing and the sea
+- Animals
+- Playing Basketball
+- Playing Piano
+- Chess
+- Rubik's Cubes (and many other puzzles)
+- Nature (hiking, sea, forests, etc.)
 - Space
+- [Games](https://steamcommunity.com/id/markhovs/) (Computer and Board)
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils (Faber-Castell Polychromos)
-- Podcasts ([Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
+- Books
+- Movies and Anime
+- Drawing
 - [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- Video Editing
+- Photography
+- Classical Music
+- Youtube
 
 #### Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit:  Norway.
-
-- I am an Oregon Trail II enthusiast.
+- I am from originally from Yerevan, Armenia and I live here right now.
+- I plan on adding some interesting travel facts here in the future.
 
 #### Fun facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on an [electric skateboard](https://boostedboards.com/vehicles/shortboards/boosted-mini-x), [onewheel](https://onewheel.com/products/xr), or [bicycle](https://www.citibikenyc.com/) every single day.
-- I added this page because so many people complained that my site was just a resume.
+- I have an idea of becomming a vloger (YouTuber) and making some creative content.
+- I love being surrounded by technology, good technology.
+- I am ambidextrous.
+- I love The Lord of the Rings and all of the work by J. R. R. Tolkien.
+- I just wanted to be a show-off and have my personal site.
 
 #### I dream of
 
 - always finding inspiration.
 - enabling a brighter future.
-- doing better.
-- no one checking my commit history for early drafts of this file.
+- never seeing suffering creatures on this planet.
+- sleeping more.
+- having time to do more sports.
+- being able to invest in all of the projects that I get motivated by.

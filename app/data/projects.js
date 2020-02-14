@@ -1,43 +1,45 @@
-// TODO Add a couple lines about each project
+// TODO Add more projects
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
-  }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
-  }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Deepchar',
+    subtitle: 'AUA Capstone Project',
+    link: 'https://deepchar.github.io/',
+    image: '/images/projects/deepchar.jpeg',
+    date: '2019-05-20',
+    desc: 'A capstone project. '
+      + 'Deepchar is an NLP project, which aims to produce a precise model for multilingual transliteration '
+      + 'with sequence-to-sequence models and transfer learning.'
+  }, 
+  {
+    title: 'Ambulance Feedback',
+    subtitle: 'A project done by receiving a grant from Ministry of Health of RA',
+    link: 'https://github.com/markhovs/ambulance-feedback-app',
+    image: '/images/projects/ambulance_feedback.jpg',
+    date: '2019-08-28',
+    desc: 'Won ~ $2500 in prizes for suggesting a feedback system for ambulance services. '
+      + 'A web-app was developed to provide a comprehensive feedback system for ambulance users '
+      + 'with convenient user ID database lookup and user SMS verification.'
+  }, 
+  {
+    title: 'Megerian Carpets GAN',
+    subtitle: 'A generative adversarial network to geneerate new carpets!',
+    link: 'https://github.com/markhovs/Megerian-Carpet-GAN',
+    image: '/images/projects/megerian-GAN.jpg',
+    date: '2020-01-24',
+    desc: 'Trained a generative adversarial network (GAN) to generate new carpet designs. '
+    + 'With ~600 original scrapped samples, we augmented and got x8 times more images, '
+    + 'then trained a StyleGAN with impressive empirical results.',
+  },
+  {
+    title: 'iCafeteria',
+    subtitle: 'Database Systems course final project',
+    link: 'https://github.com/markhovs/iCafeteria',
+    image: '/images/projects/icafeteria.jpg',
+    date: '2018-12-11',
     desc: 'Launched a potato battery powered weather balloon with two cameras '
       + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
-  },
+      + 'You can email me for a copy.'
+  }, 
 ];
 
 export default data;

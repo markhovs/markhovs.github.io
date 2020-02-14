@@ -2,43 +2,49 @@ import faGithub from '@fortawesome/fontawesome-free-brands/faGithub';
 import faFacebook from '@fortawesome/fontawesome-free-brands/faFacebookF';
 import faInstagram from '@fortawesome/fontawesome-free-brands/faInstagram';
 import faLinkedinIn from '@fortawesome/fontawesome-free-brands/faLinkedinIn';
-import faAngellist from '@fortawesome/fontawesome-free-brands/faAngellist';
+// import faAngellist from '@fortawesome/fontawesome-free-brands/faAngellist';
 import faTwitter from '@fortawesome/fontawesome-free-brands/faTwitter';
+import faSteam from '@fortawesome/fontawesome-free-brands/faSteam';
 import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/markhovs',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/d',
+    link: 'https://www.facebook.com/mark.hovs',
     label: 'Facebook',
     icon: faFacebook,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/markhovs/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/markhovs/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
+  // {
+  //   link: 'https://angel.co/',
+  //   label: 'Angel List',
+  //   icon: faAngellist,
+  // },
   {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
-  },
-  {
-    link: 'https://twitter.com/dangelosaurus',
+    link: 'https://twitter.com/markhovs',
     label: 'Twitter',
     icon: faTwitter,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'https://steamcommunity.com/id/markhovs/',
+    label: 'Steam',
+    icon: faSteam,
+  },
+  {
+    link: 'mailto:markhovsepyan98@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

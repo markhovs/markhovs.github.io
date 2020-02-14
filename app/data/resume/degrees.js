@@ -1,14 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'American University of Armenia',
+    degree: 'BS in Computer Science',
+    link: 'https://aua.am/',
+    year: 2019,
+  },
+  {
+    school: 'American University of Armenia',
+    degree: 'Minor in Philosophy, Politics, & Economics (PPE)',
+    link: 'https://aua.am/',
+    year: 2019,
+  }, 
+  {
+    school: 'Hakob Kojoyan at Buffalo',
+    degree: 'High School',
+    link: 'https://kojoyan.schoolsite.am/',
+    year: 2015,
   },
 ];
 
